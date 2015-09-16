@@ -1,0 +1,33 @@
+/* General */
+
+h1 {
+  font-size: 5em;
+  font-family: 'Vollkorn', serif;
+  font-weight: normal;
+}
+
+.subheading {
+  font-size: 2em;
+}
+
+body {
+  margin: 0;
+}
+
+/* Header area*/
+
+.hero {
+  background-color: black;
+  color: white;
+}
+
+.header {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 8em;
+  padding-bottom: 4em;
+  width: 40%;
+}
+
+
+
